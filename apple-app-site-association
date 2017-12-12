@@ -3,10 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "29HPKUAB44.ua.prom.zakupki.supplier",
-                "paths": [
-                    "*"
-                ]
+                "appID": "29HPKUAB44.ua.zakupki.prom.supplier",
+                "paths": ["*"]
             }
         ]
     }
