@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "29HPKUAB44.ua.zakupki.prom.supplier",
-                "paths": ["/remote/dispatcher/state_purchase_view/*/", "/cabinet/purchases/state_purchase/search/all", "/cabinet/purchases/state_purchase/search/planned", "/cabinet/purchases/state_purchase/list?/"]
+                "paths": ["/remote/dispatcher/state_purchase_view/*/", "/cabinet/purchases/state_purchase/search/all", "/cabinet/purchases/state_purchase/search/planned", "/cabinet/purchases/state_purchase/list?"]
             }
         ]
     }
