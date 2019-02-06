@@ -3,8 +3,8 @@
         "apps": [],
         "details": [
             {
-                "appID": "29HPKUAB44.ua.zakupki.prom.supplier",
-                "paths": ["/remote/dispatcher/state_purchase_view/*/", "/cabinet/purchases/state_purchase/search/all", "/cabinet/purchases/state_purchase/search/planned", "/cabinet/purchases/state_purchase/subscription", "/cabinet/purchases/state_purchase/merchants"]
+                "appID": "29HPKUAB44.app.shafa.dev.ios",
+                "paths": ["/msg/*/", "/men/*/", "/women/*/", "/kids/*/", "/home/*/", "/member/*/", "/my/favourites", "/my/review-requests", "/my/reviews"]
             }
         ]
     }
