@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "29HPKUAB44.shafa.odejda.obuv.aksessuary",
-                "paths":  ["/msg/*/", "/men/*/", "/women/*/", "/kids/*/", "/home/*/", "/member/*/", "/my/favourites", "/my/review-requests", "/my/reviews"]
+                "paths":  ["/msg", "/men/*/", "/women/*/", "/kids/*/", "/home/*/", "/member/*/", "/my/favourites", "/my/review-requests", "/my/reviews"]
             }
         ]
     }
