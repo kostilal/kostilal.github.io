@@ -4,8 +4,28 @@
         "details": [
             {
                 "appID": "29HPKUAB44.shafa.odejda.obuv.aksessuary",
-                "paths":  ["/msg", "/msg/*/", "/men/*/", "/women/*/", "/kids/*/", "/home/*/", "/member/*/", "/my/favourites", "/my/review-requests", "/my/reviews"]
+                "paths": [
+                "/msg",
+                "/msg/*/",
+                "/men/*/",
+                "/men",
+                "/women/*/",
+                "/women",
+                "/kids/*/",
+                "/kids",
+                "/home/*/",
+                "/home",
+                "/member/*/",
+                "/my/favourites",
+                "/my/review-requests",
+                "/my/reviews",
+                "/login/reset-password/*/",
+                "/dynamic-collections/*"
+                ]
             }
         ]
+    },
+     "webcredentials": {
+        "apps": ["29HPKUAB44.shafa.odejda.obuv.aksessuary"]
     }
 }
